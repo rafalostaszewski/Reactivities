@@ -54,3 +54,8 @@ $ dotnet new gitignore
 
 We are using 3'rd party API keys and those third party API keys we don't want to publish on a public git repository.
 add line: appsettings.json to gitignore file
+
+
+Client-App
+---------------------------------------------------------------------------------------
+$ npm create-react-app client-app --use-npm --template typescript
